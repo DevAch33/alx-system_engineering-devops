@@ -1,4 +1,4 @@
-*🚀 Outage Postmortem: When Caching Goes Awry 🚀*
+***🚀 Outage Postmortem: When Caching Goes Awry 🚀***
 
 # *Issue Summary:*
 - *Duration:* March 8, 2024, 10:00 AM - March 9, 2024, 2:00 AM (UTC)
