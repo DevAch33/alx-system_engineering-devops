@@ -1,6 +1,6 @@
 *🚀 Outage Postmortem: When Caching Goes Awry 🚀*
 
-*Issue Summary:*
+#*Issue Summary:*
 - *Duration:* March 8, 2024, 10:00 AM - March 9, 2024, 2:00 AM (UTC)
 - *Impact:* The API service decided to take a coffee break, leaving 60% of users waiting impatiently for their data like it was a Monday morning without caffeine.
 - *Root Cause:* Our caching layer thought it could handle all the data thrown its way, but ended up choking on too many I/O operations, like trying to drink from a firehose.
